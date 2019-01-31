@@ -1,2 +1,0 @@
-# RM
-robomaster2018
